@@ -1,5 +1,5 @@
 
-# Computer Vision
+# Computer Vision Resources
 A curated list of awesome computer vision resources,
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
